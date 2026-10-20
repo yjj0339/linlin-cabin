@@ -1,0 +1,15 @@
+{
+  "name": "霖林小屋",
+  "short_name": "霖林小屋",
+  "description": "森林深处的小木屋，屋前种满向日葵，晴天雾天皆可切换",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#c2e2ac",
+  "theme_color": "#8ec5e8",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}
